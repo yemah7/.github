@@ -1,9 +1,7 @@
 ## 📖 **Description**
 Yemah est une communauté dynamique dédiée à l'apprentissage et au partage des connaissances en informatique. Nous proposons une variété d’activités :
-- **Hackathons** pour mettre vos compétences à l'épreuve.
 - **Conférences** pour découvrir les tendances et innovations.
 - **Résolution de problèmes** pour affiner vos compétences.
-- **Mentorat et réseautage** pour vous connecter avec des experts du domaine.
 
 Rejoignez-nous pour faire partie d’une initiative qui rassemble passionnés et professionnels autour d’une même vision : bâtir un avenir technologique meilleur.
 
